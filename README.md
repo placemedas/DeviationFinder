@@ -1,7 +1,6 @@
 # Deviation Finder
-#### Created by Ria Thomas, Vipin Das, Varnnitha Venugopal, Kenny Tony Chakola, Keerthi Ningegowda in association with Technical Safety BC. 
 ## An Elevator Anomaly Detection System
-
+#### Created by Ria Thomas, Vipin Das, Varnnitha Venugopal, Kenny Tony Chakola, Keerthi Ningegowda in association with Technical Safety BC.
 The project aimed at designing a system that could collect accelerometer data from elevators and identify anomalies which can then be used to predict which elevators are potentially at-risk of technical issues related to elevator brakes, motor and alignment.
 
 ## About the dataset
